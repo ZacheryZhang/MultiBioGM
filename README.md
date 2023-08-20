@@ -1,6 +1,6 @@
 # MultiBioGM
 
-Simple overview of use/purpose.
+Please look forward to.
 
 ## Description
 
